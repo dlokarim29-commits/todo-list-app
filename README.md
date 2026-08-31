@@ -1,2 +1,7 @@
-# todo-list-app
-A to-do list application with local storage functionality
+# Todo List App
+
+Application simple de todo list (scaffold).
+
+Mainteneur : samy
+
+Scaffold initial : frontend statique dans public/, README, LICENSE, logo.
